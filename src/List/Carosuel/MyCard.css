@@ -1,0 +1,22 @@
+.carosuel {
+  display: flex;
+  align-items: center;
+  button {
+    height: 30px;
+  }
+}
+.card-main {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  overflow-x: auto;
+}
+
+.card {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}

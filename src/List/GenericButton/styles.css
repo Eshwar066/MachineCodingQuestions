@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form-button {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+}
+
+.action-button {
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+}
+
+.edel-button {
+  background-color: yellow;
+  color: black;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+}
